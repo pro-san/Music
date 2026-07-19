@@ -1,5 +1,5 @@
 {
-  "name": "Music Theory Scale & Chord Visualizer",
+  "name": "PRO DIGITAL MUSIC",
   "description": "An interactive music theory visualizer that displays scales, chords, piano keys, guitar fretboard layouts, and circle of fifths, powered by a Gemini chatbot helper and abstract music-to-art generation.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]

@@ -87,11 +87,11 @@ export default function App() {
             <Music className="w-5 h-5 text-white animate-pulse" />
           </div>
           <div>
-            <h1 className="text-xl font-extrabold tracking-tight bg-gradient-to-r from-white via-slate-100 to-slate-300 bg-clip-text text-transparent">
-              Music Theory Scale & Chord Visualizer
+            <h1 className="text-xl font-extrabold tracking-tight bg-gradient-to-r from-white via-slate-100 to-indigo-200 bg-clip-text text-transparent">
+              PRO DIGITAL MUSIC
             </h1>
-            <p className="text-xs text-slate-400 font-medium flex items-center gap-1.5 mt-0.5">
-              <span>Interactive playground & educational laboratory</span>
+            <p className="text-xs text-slate-400 font-medium flex items-center flex-wrap gap-1.5 mt-0.5">
+              <span>Interactive Scale & Chord Visualizer</span>
               <span className="w-1 h-1 rounded-full bg-slate-700" />
               <span className="text-indigo-400 flex items-center gap-0.5 font-semibold">
                 <Sparkles className="w-3 h-3" /> Gemini AI Augmented
@@ -360,7 +360,7 @@ export default function App() {
 
       {/* HumbleFooter */}
       <footer className="border-t border-slate-900 py-6 px-6 text-center text-xs text-slate-500 mt-12 bg-slate-950">
-        <p>© 2026 Music Theory Scale & Chord Visualizer. Engineered with full-stack React & Gemini AI.</p>
+        <p>© 2026 PRO DIGITAL MUSIC. Engineered with full-stack React & Gemini AI.</p>
       </footer>
     </div>
   );
